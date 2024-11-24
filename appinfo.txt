@@ -1,0 +1,1 @@
+This is a simple Flask project. It renders a single html page.
