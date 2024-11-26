@@ -1,7 +1,18 @@
-## Title
+# Documentation
 
-Some description
+### Table of Contents
+1. [Example](#branch-title)
+2. [Example2](#branch-description)
+3. [Third Example](#why-was-this-branch-needed)
 
-## Second title
+### Branch title
 
-Some more description
+`feature/add-about-project` 
+
+### Branch description
+
+This branch introduces the proper documentation for this feature.
+
+### Why was this branch needed?
+
+By request of the Product Manager.
